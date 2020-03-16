@@ -1,4 +1,5 @@
 
+<?php require  "includes/config.php";?>
 <?php  require "includes/classes/Constant.php";?>
 <?php  require "includes/classes/Account.php";
 $account = new Account();
